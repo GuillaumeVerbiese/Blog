@@ -1,3 +1,3 @@
 # Blog
 
-projet de blog en php, utilisation de pdo ppour connexion BDD.
+projet de blog en php, utilisation de pdo pour connexion BDD.
